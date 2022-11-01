@@ -40,8 +40,8 @@ console.log(data)
 
 const svg = d3.select("#col1")
 .append("svg")
-.attr("width", 600)
-.attr("height", 600);
+.attr("width", 650)
+.attr("height", 650);
 
 
 let radialScale = d3.scaleLinear()
