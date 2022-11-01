@@ -1,0 +1,29 @@
+
+body {
+  font-family: Arial;
+}
+
+.point {
+  fill: lightblue; 
+}
+
+.point:hover {
+  fill: orange;
+}
+
+
+.i_points {
+  fill: mediumpurple;
+}
+
+
+.tooltip {
+  position: absolute; 
+  background-color: lightgray;
+  border: solid; 
+  border-width: 2px;
+  border-radius: 5px;
+  padding: 5px;
+  border-width: 2px;
+}
+
